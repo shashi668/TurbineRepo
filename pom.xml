@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>turbine</groupId>
-    <artifactId>turbinesub</artifactId>
+    <artifactId>UpdatedTurbine</artifactId>
     <version>tur234</version>
     <packaging>war</packaging>
 
