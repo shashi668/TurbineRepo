@@ -4,9 +4,9 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>Shashank</groupId>
-    <artifactId>Shashank_UpdatedTurbine</artifactId>
-    <version>Shashank_tur234</version>
+    <groupId>mass</groupId>
+    <artifactId>massprince</artifactId>
+    <version>Sha234</version>
     <packaging>war</packaging>
 
     <name>My Turbine Web Application</name>
